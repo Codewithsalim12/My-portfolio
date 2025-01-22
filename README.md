@@ -36,7 +36,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shadowofleaf96/React-Vite-PortFolio.git
+   https://github.com/Codewithsalim12/My-portfolio.git
    ```
 
 2. Change into the project directory:
