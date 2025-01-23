@@ -72,7 +72,7 @@ export function NavBar() {
               style={{ objectFit: "cover" }}
             />
             <span className="ml-2 text-xl sm:text-2xl font-semibold">
-             Salim
+              Salim
             </span>
           </div>
         </a>
@@ -120,7 +120,7 @@ export function NavBar() {
             onClick={(e) => {
               e.preventDefault();
               window.open(
-                "https://www.youtube.com/channel/UC9_eEbHsL_1TL1O67Fwe7Yw",
+                "https://www.instagram.com/mohammadsalim__567/",
                 "_blank"
               );
               setOpenNav(!openNav);
@@ -130,7 +130,7 @@ export function NavBar() {
             className="dark:text-white"
           >
             <Icon
-              icon="mdi:youtube"
+              icon="mdi:instagram"
               height={24}
               width={24}
               style={{ fontSize: "1.5em", marginRight: "5px" }}
@@ -139,7 +139,7 @@ export function NavBar() {
           <Button
             onClick={(e) => {
               e.preventDefault();
-              window.open("https://github.com/shadowofleaf96", "_blank");
+              window.open("https://github.com/Codewithsalim12", "_blank");
               setOpenNav(!openNav);
             }}
             variant="text"
@@ -156,7 +156,10 @@ export function NavBar() {
           <Button
             onClick={(e) => {
               e.preventDefault();
-              window.open("https://www.linkedin.com/in/mkotbi/", "_blank");
+              window.open(
+                "https://www.linkedin.com/in/mohammadsalimmir/",
+                "_blank"
+              );
               setOpenNav(!openNav);
             }}
             variant="text"

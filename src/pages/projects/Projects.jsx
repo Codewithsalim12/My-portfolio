@@ -18,7 +18,7 @@ const projectsData = [
     image: "../../../images/Music-img.jpg",
     title: "Music  App",
     description:
-      " Welcome to our lightweight music app, designed with HTML, CSS, and JavaScript. Enjoy a curated collection of limited tracks with seamless support for both desktop and Android platforms. Dive into music, anytime, anywhere!",
+      "Welcome to our lightweight music app built with HTML, CSS, and JavaScript. Enjoy curated tracks on both desktop and Android, anytime, anywhere!",
     liveDemoLink: "https://codewithsalim12.github.io/Free-Music-app.github.io/",
     sourceCodeLink:
       "https://github.com/Codewithsalim12/Free-Music-app.github.io",
@@ -28,7 +28,7 @@ const projectsData = [
     image: "../../../images/portfolio-img.webp",
     title: "My PortFolio",
     description:
-      " Explore my personal portfolio, crafted with Vite, React, Tailwind CSS, and Framer Motion. Showcasing my skills and projects, the design is responsive, fast, and brought to life with smooth animations. Discover my journey and creativity in web development!",
+      " Explore my portfolio built with Vite, React, Tailwind CSS, and Framer Motion. Showcasing my skills and projects, it features a responsive design, fast performance, and smooth animations.",
     liveDemoLink: "/",
     sourceCodeLink: "/",
   },
@@ -37,7 +37,7 @@ const projectsData = [
     image: "../../../images/quiz-app.png",
     title: "Quiz App",
     description:
-      "Challenge yourself with our interactive quiz app featuring a variety of topics like Math, Coding, Geography, and Science. Complete quizzes within set time limits, and view your score instantly after finishing. Test your knowledge and track your progress!",
+      "Challenge yourself with our quiz app featuring topics like Math, Coding, Geography, and Science. Complete timed quizzes and view your scores instantly!",
     liveDemoLink: "https://quiz-app-lovat-tau.vercel.app/",
     sourceCodeLink: "https://github.com/Codewithsalim12/Quiz-App",
   },
@@ -46,7 +46,7 @@ const projectsData = [
     image: "../../../images/Blog.avif",
     title: "TechBlog",
     description:
-      "Welcome to TechBlog, Tech Blog is a programming-focused platform built with Next.js, React, TailwindCSS, and Contentlayer. It showcases coding tutorials, tech guides, and developer insights in a sleek, responsive, and easy-to-manage interface",
+      "Welcome to TechBlog, a programming hub built with Next.js, React, TailwindCSS, and Contentlayer, featuring coding tutorials, tech guides, and developer insights.",
     liveDemoLink: "https://tech-blog-ten-iota.vercel.app/",
     sourceCodeLink: "https://github.com/Codewithsalim12/Tech-Blog",
   },
@@ -55,7 +55,7 @@ const projectsData = [
     image: "../../../images/Linktree.png",
     title: "Linktree Clone",
     description:
-      "Welcome to LinkTree Clone, an open-source project built with React, Express, Node.js, MongoDB, and TailwindCSS. This platform is designed to provide a customizable and responsive solution for managing and sharing multiple links in one place.",
+      "LinkTree Clone is an open-source platform built with React, Node.js, and TailwindCSS to manage and share multiple links ",
     liveDemoLink: "https://linktree-clone-omega-red.vercel.app/",
     sourceCodeLink: "https://github.com/Codewithsalim12/Linktree-clone",
   },
@@ -64,7 +64,7 @@ const projectsData = [
     image: "../../../images/Shortlinks_blog.png",
     title: "URL Shortener",
     description:
-      "Welcome to Bitlinks, a sleek and efficient URL shortener built with modern technologies, designed to simplify link sharing and management. Create short, customized links with ease, making your URLs more concise and user-friendly",
+      "Welcome to Bitlinks, a modern URL shortener for easy link sharing and management. Create short, customizable, and user-friendly URLs effortlessly.",
     liveDemoLink: "https://bitlinks-omega.vercel.app/",
     sourceCodeLink: "https://github.com/Codewithsalim12/Bitlinks",
   },
@@ -91,7 +91,7 @@ function ProjectCard({ project }) {
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       color="white"
-      className="w-full max-w-sm dark:bg-black relative mx-auto mb-8 md:max-w-screen-md"
+      className="w-full h-auto max-w-sm dark:bg-black relative mx-auto mb-8 pb-2 md:max-w-screen-md"
     >
       <animated.div style={blurProps}>
         <img

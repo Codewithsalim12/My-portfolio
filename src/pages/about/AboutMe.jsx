@@ -43,7 +43,7 @@ function AboutMe() {
           >
             <img
               alt="MK"
-              src="/public/images/profile-pic.jpg"
+              src="/images/profile-pic.jpg"
               className="w-2/3 md:w-1/3 md:hidden h-auto object-cover rounded-full mb-4"
             />
           </Tilt>

@@ -161,7 +161,7 @@ function Hero() {
             variant="h1"
             className="mb-8 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-semibold xl:text-8xl text-blue-gray-900 dark:text-gray-200 font-poppins"
           >
-            Hi, I'm Mohammed Salim
+            Hi, I'm Mohammad Salim
           </Typography>
 
           <Typography className="mb-8 text-second dark:text-gray-200 text-md md:text-lg font-poppins">
@@ -185,7 +185,7 @@ function Hero() {
             <Button
               onClick={() =>
                 handleButtonClick(
-                  "https://drive.google.com/file/d/1s-KhVWyP3t5JRhRtcRi29rkR091zkjNH/view?usp=sharing"
+                  "https://drive.google.com/file/d/1XQxUEolLU1zlZsLB0WiOe8QKJMV-L7r8/view?usp=drive_link"
                 )
               }
               ripple={true}
