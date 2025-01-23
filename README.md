@@ -2,10 +2,9 @@
 
 Welcome to my portfolio, a simple, minimalist and elegant showcase of my work and skills. This portfolio is created using React, Tailwind, Express and Node, highlighting my abilities in web development and design. Feel free to explore my projects, learn more about me, and get in touch for potential collaborations.
 
-![Portfolio Mockup](https://github.com/shadowofleaf96/React-Vite-PortFolio/blob/master/mockup.png?raw=true)
 
 
-Live demo : [live demo](https://new-portfolio-z3hb.onrender.com/)
+Live demo : [live demo]
 
 ## Table of Contents
 
@@ -36,7 +35,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shadowofleaf96/React-Vite-PortFolio.git
+   https://github.com/Codewithsalim12/My-portfolio.git
    ```
 
 2. Change into the project directory:
