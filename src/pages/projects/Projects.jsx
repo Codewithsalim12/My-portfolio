@@ -15,7 +15,7 @@ import { Icon } from "@iconify/react";
 const projectsData = [
   {
     id: 1,
-    image: "../../../images/Music-img.jpg",
+    image: "../../../images/music-cover.avif",
     title: "Music  App",
     description:
       "Welcome to our lightweight music app built with HTML, CSS, and JavaScript. Enjoy curated tracks on both desktop and Android, anytime, anywhere!",
@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 2,
-    image: "../../../images/portfolio-img.webp",
+    image: "../../../images/web-developer-portfolio.png",
     title: "My PortFolio",
     description:
       " Explore my portfolio built with Vite, React, Tailwind CSS, and Framer Motion. Showcasing my skills and projects, it features a responsive design, fast performance, and smooth animations.",
@@ -34,7 +34,7 @@ const projectsData = [
   },
   {
     id: 3,
-    image: "../../../images/quiz-app.png",
+    image: "../../../images/quiz-app.avif",
     title: "Quiz App",
     description:
       "Challenge yourself with our quiz app featuring topics like Math, Coding, Geography, and Science. Complete timed quizzes and view your scores instantly!",
@@ -43,7 +43,7 @@ const projectsData = [
   },
   {
     id: 4,
-    image: "../../../images/Blog.avif",
+    image: "../../../images/Tech-blog.avif",
     title: "TechBlog",
     description:
       "Welcome to TechBlog, a programming hub built with Next.js, React, TailwindCSS, and Contentlayer, featuring coding tutorials, tech guides, and developer insights.",
@@ -52,7 +52,7 @@ const projectsData = [
   },
   {
     id: 5,
-    image: "../../../images/Linktree.png",
+    image: "../../../images/LinktreeLogo.png",
     title: "Linktree Clone",
     description:
       "LinkTree Clone is an open-source platform built with React, Node.js, and TailwindCSS to manage and share multiple links ",
@@ -61,7 +61,7 @@ const projectsData = [
   },
   {
     id: 6,
-    image: "../../../images/Shortlinks_blog.png",
+    image: "../../../images/url-cut.jpeg",
     title: "URL Shortener",
     description:
       "Welcome to Bitlinks, a modern URL shortener for easy link sharing and management. Create short, customizable, and user-friendly URLs effortlessly.",
