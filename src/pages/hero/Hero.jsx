@@ -139,7 +139,7 @@ function Hero() {
         <div className="flex mr:0 md:mr-16 w-2/3 md:w-1/3 lg:w-4/12 xl:w-1/3 items-center justify-center">
           <Tilt tiltMaxAngleY={3} tiltMaxAngleX={3}>
             <img
-              src="../../../images/profile-pic.jpg"
+              src="https://avatars.githubusercontent.com/u/146638041?v=4"
               alt="MK"
               className="mb-8 w-full object-cover rounded-full transition-transform duration-500 hover:scale-105"
               style={{

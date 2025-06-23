@@ -67,7 +67,7 @@ export function NavBar() {
             <Avatar
               alt="MK"
               withBorder={true}
-              src="../../../images/profile-pic.jpg"
+              src="https://avatars.githubusercontent.com/u/146638041?v=4"
               className="p-0.5"
               style={{ objectFit: "cover" }}
             />

@@ -162,7 +162,7 @@ function AboutMe() {
           <Tilt tiltMaxAngleY={10} tiltMaxAngleX={10} gyroscope={true}>
             <img
               alt="MK"
-              src="../../../images/profile-pic.jpg"
+              src="https://avatars.githubusercontent.com/u/146638041?v=4"
               className="h-auto object-cover rounded-full hidden md:block"
               style={{
                 filter: "brightness(1.2) contrast(1.3) saturate(1.5) blur(0)",
