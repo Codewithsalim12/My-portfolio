@@ -184,9 +184,7 @@ function Hero() {
           <div className="flex flex-col items-start md:flex-row md:items-start mb-4 md:mb-8 mx-auto md:mx-0">
             <Button
               onClick={() =>
-                handleButtonClick(
-                  "https://drive.google.com/file/d/1XQxUEolLU1zlZsLB0WiOe8QKJMV-L7r8/view?usp=drive_link"
-                )
+                handleButtonClick("/pdf/frontend_developer_cv.pdf")
               }
               ripple={true}
               className="font-poppins bg-second text-white border-2 border-second hover:bg-green-500 hover:border-green-500 transition duration-300 mb-4 md:mr-2 dark:bg-second dark:hover:bg-green-500 dark:text-gray-200 dark:hover:border-green-500"
